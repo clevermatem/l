@@ -21,7 +21,7 @@ local Ziggs = {
 }
 local events = {}
 local defaultColor = 0xe7f2f8FF
-local scriptName = "SomethingZiggs"
+local scriptName = "ZiggsSomething"
 --local scriptDev = "testerhdre"
 
 
